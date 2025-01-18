@@ -18,7 +18,7 @@ I'm **Rachel Skinner**, a dynamic and versatile **Full-Stack Developer** from th
 📫 **Get in touch:**  
 - Email: [skinner.rachelc@gmail.com](mailto:skinner.rachelc@gmail.com)  
 - LinkedIn: [linkedin.com/in/rcskinner23](https://www.linkedin.com/in/rcskinner23/)  
-- Portfolio: [next-portfolio](https:/rachelskinnerdev.com/)  
+- Portfolio: [next-portfolio]([https:/rachelskinnerdev.com/](https://www.rachelskinnerdev.com/))  
 
 ---
 
