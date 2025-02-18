@@ -34,7 +34,7 @@ With a strong background in **teaching STEM subjects**, I bring exceptional comm
 ---
 
 ### 🚀 Projects
-Here are some projects I've worked on rduring my Bootcamp:
+Here are some projects I've worked on during my Bootcamp:
 
 - **[School Club Booking System](https://github.com/rcskin/clubs-app):**  
   A React-based system that streamlines the management of extracurricular clubs, allowing students to browse and join clubs effortlessly.  
