@@ -14,7 +14,7 @@ With a strong background in **teaching STEM subjects**, I bring exceptional comm
 📫 **Get in touch:**  
 - Email: [skinner.rachelc@gmail.com](mailto:skinner.rachelc@gmail.com)  
 - LinkedIn: [linkedin.com/in/rcskinner23](https://www.linkedin.com/in/rcskinner23/)  
-- Portfolio: [next-portfolio](https://www.rachelskinnerdev.com/)
+- Portfolio: [portfolio](https://www.rachelskinnerdev.com/)
 
 ---
 
