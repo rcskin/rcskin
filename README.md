@@ -1,8 +1,8 @@
 
 ### About Me
-I am a fullstack developer using React, MongoDB, Node and Express. I have professional experience using Next and Headless CMS (Sanity), Tailwind, and UI component libraries (DaisyUI). Familiar with integration and unit testing with Jest, authentication with JWT, and state management (Redux). I have a keen eye for clean design, intuitive and user-friendly experience, with strong attention to detail.
+I am a fullstack developer using **React, MongoDB, Node and Express**. I have professional experience using **Next** and **Headless CMS (Sanity)**, **Tailwind**, and **UI component libraries (DaisyUI)**. Familiar with integration and unit testing with **Jest**, **authentication with JWT**, and state management (**Redux**). I have a keen eye for clean design, intuitive and user-friendly experience, with strong attention to detail.
 
-To see examples of my work, feel free to look at my pinned projects highlighted here on github
+To see examples of my work, feel free to look at my pinned projects highlighted here on github or check out my LiinkedIn and Portfolio links below. 
 
 With a strong background in **teaching STEM subjects**, I bring exceptional communication and mentoring skills to the table.
 
