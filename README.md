@@ -1,19 +1,15 @@
-## Hi there 👋 Welcome to my GitHub profile!
 
 ### About Me
-I'm **Rachel Skinner**, a dynamic and versatile **Full-Stack Developer** from the UK 🌍. I specialize in the **MERN stack** and have a passion for innovation and solving real-world problems. With a strong background in **teaching STEM subjects**, I bring exceptional communication and mentoring skills to the table.
+I am a fullstack developer using React, MongoDB, Node and Express. I have professional experience using Next and Headless CMS (Sanity), Tailwind, and UI component libraries (DaisyUI). Familiar with integration and unit testing with Jest, authentication with JWT, and state management (Redux). I have a keen eye for clean design, intuitive and user-friendly experience, with strong attention to detail.
+
+To see examples of my work, feel free to look at my pinned projects highlighted here on github
+
+With a strong background in **teaching STEM subjects**, I bring exceptional communication and mentoring skills to the table.
 
 🔭 **Currently working on:**  
-- Freelance projects including websites for small businesses and personal tutoring platforms.
-- Enhancing my portfolio with engaging and user-focused web applications.
-
-🌱 **Always learning:**  
-- Deepening my knowledge of backend development and database optimization.  
-- Exploring advanced front-end frameworks and design principles.  
-
-💬 **Ask me about:**  
-- Building robust and scalable web applications.  
-- My journey transitioning from teaching to tech.  
+- Freelance projects including websites for small businesses
+- Enhancing my portfolio with engaging and user-focused web applications
+- Learning Typescript to use in future MERN stack projects.  
 
 📫 **Get in touch:**  
 - Email: [skinner.rachelc@gmail.com](mailto:skinner.rachelc@gmail.com)  
@@ -24,20 +20,21 @@ I'm **Rachel Skinner**, a dynamic and versatile **Full-Stack Developer** from th
 
 ### 🛠 Skills & Technologies
 **Languages & Frameworks:**  
-- JavaScript, HTML, CSS  
-- React, Node.js, Express.js, MongoDB  
+- React, Node.js, Express.js, MongoDB
+- Next.js, Tailwind.css, Sanity (Headless CMS)  
+- JavaScript, HTML, CSS   
 
 **Tools & Platforms:**  
 - Git, GitHub, VS Code  
 
 **Other Expertise:**  
-- STEM Tutoring (GCSE Science, Maths, A-Level Pure Mathematics)  
+- STEM Tutoring (GCSE Science & Mathematics, A-Level Pure Mathematics)  
 - Strong Communication & Interpersonal Skills  
 
 ---
 
 ### 🚀 Projects
-Here are some projects I've worked on recently:
+Here are some projects I've worked on rduring my Bootcamp:
 
 - **[School Club Booking System](https://github.com/rcskin/school-club-booking-system):**  
   A React-based system that streamlines the management of extracurricular clubs, allowing students to browse and join clubs effortlessly.  
@@ -61,7 +58,7 @@ Here are some projects I've worked on recently:
 ---
 
 ### ⚡ Fun Fact
-Before diving into tech, I was a teacher of Science, Psychology, and Mathematics. I even coordinated the **Duke of Edinburgh program**, ran a **Musical Theatre Club**, and served as **Turing House Leader**—a true multitasker at heart!
+Before diving into tech, I was a teacher of Science, Psychology, and Mathematics. I also coordinated the **Duke of Edinburgh program**, ran a **Musical Theatre Club**, and served as **Turing House Leader**—a true multitasker at heart!
 
 
 <!--
