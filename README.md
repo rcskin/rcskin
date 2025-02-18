@@ -36,15 +36,15 @@ With a strong background in **teaching STEM subjects**, I bring exceptional comm
 ### 🚀 Projects
 Here are some projects I've worked on rduring my Bootcamp:
 
-- **[School Club Booking System](https://github.com/rcskin/school-club-booking-system):**  
+- **[School Club Booking System](https://github.com/rcskin/clubs-app):**  
   A React-based system that streamlines the management of extracurricular clubs, allowing students to browse and join clubs effortlessly.  
   *Tech Stack:* React, MongoDB, Express, Node.js  
 
-- **[Paramount+ Clone](https://github.com/rcskin/paramount-plus-clone):**  
+- **[Paramount+ Clone](https://github.com/rcskin/cloned-website):**  
   A clone of the Paramount+ landing page, showcasing front-end development skills.  
   *Tech Stack:* React, Bootstrap  
 
-- **[Car Inventory Management App](https://github.com/rcskin/car-inventory-app):**  
+- **[Car Inventory Management App](https://github.com/rcskin/carInventory):**  
   An application to manage and browse car inventories, with advanced filtering for cars older than 5 years.  
   *Tech Stack:* React, MongoDB, Express, Node.js  
 
