@@ -54,14 +54,17 @@ Here are some projects I've worked on during my Bootcamp:
 
 - **[School Club Booking System](https://github.com/rcskin/clubs-app):**  
   A React-based system that streamlines the management of extracurricular clubs, allowing students to browse and join clubs effortlessly. Final Capstone MERN project.  
+
   *Tech Stack:* React, MongoDB, Express, Node.js  
 
 - **[Paramount+ Clone](https://github.com/rcskin/cloned-website):**  
   A clone of the Paramount+ landing page, showcasing front-end development skills.  
+
   *Tech Stack:* React, Bootstrap  
 
 - **[Car Inventory Management App](https://github.com/rcskin/carInventory):**  
   An application to manage and browse car inventories, with advanced filtering for cars older than 5 years.  
+
   *Tech Stack:* React, MongoDB, Express, Node.js  
 
 ---
