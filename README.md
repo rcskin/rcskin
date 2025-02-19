@@ -42,10 +42,9 @@ Here are some projects I've worked on for small businesses:
   *Tech Stack:* Next.js, React, Sanity CMS, Tailwind CSS, DaisyUI
 
 - **[Different Restaurant Website Build](https://github.com/rcskin/different-site):**  
-  A visually appealing and responsive restaurant website designed for seamless user experience and dynamic content updates. Built with powerful UI libraries and CMS integration.
+  A visually appealing and responsive restaurant website designed for seamless user experience and dynamic content updates. Built with powerful UI libraries and CMS integration. [See Restaurant Website](https://www.differentrestaurant.com/)
 
   *Tech Stack:* Next.js, React, Chakra UI, Tailwind CSS, Sanity CMS, Framer Motion
-  [See Restaurant Website](https://www.differentrestaurant.com/)
 
 
 ---
