@@ -37,8 +37,9 @@ With a strong background in **teaching STEM subjects**, I bring exceptional comm
 Here are some projects I've worked on for small businesses:
 
 - **[Playquip Leisure Ltd](https://github.com/rcskin/playquip-site):**  
-  A modern, high-performance website for a playground equipment company, built to showcase products and engage customers. Features a fully customizable CMS for easy content 
-  management.
+  A modern, high-performance website for a playground equipment company, built to showcase products and engage customers. Features 
+  a fully customizable CMS for easy content 
+  management. *Currently on-going build*
   *Tech Stack:* Next.js, React, Sanity CMS, Tailwind CSS, DaisyUI
 
 - **[Different Restaurant Website Build](https://github.com/rcskin/different-site):**  
