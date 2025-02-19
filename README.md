@@ -39,12 +39,14 @@ Here are some projects I've worked on for small businesses:
 - **[Playquip Leisure Ltd](https://github.com/rcskin/playquip-site):**  
   A modern, high-performance website for a playground equipment company, built to showcase products and engage customers. Features a fully customizable CMS for easy content 
   management.
+
   *Tech Stack:* Next.js, React, Sanity CMS, Tailwind CSS, DaisyUI
 
 - **[Different Restaurant Website Build](https://github.com/rcskin/different-site):**  
   A visually appealing and responsive restaurant website designed for seamless user experience and dynamic content updates. Built with powerful UI libraries and CMS 
   integration.
-  *Tech Stack:* Next.js, React, Chakra UI, Tailwind CSS, Sanity CMS, Framer Motion, Styled Components
+
+  *Tech Stack:* Next.js, React, Chakra UI, Tailwind CSS, Sanity CMS, Framer Motion
   [See Restaurant Website](https://www.differentrestaurant.com/)
 
 
